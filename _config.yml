@@ -23,10 +23,9 @@ subtitle: A FAccT 2025 CRAFT Session
 date: June 23, 2025
 timeframe: 4:15 PM-6:30 PM UTC+3
 location: Athens, Greece and Online
-email: your-email@example.com
 favicon: "images/favicon.png"
 description: "AI Workers' Inquiry is a FAccT 2025 CRAFT workshop to explore how AI is transforming our workplaces and discuss strategies for collective resistance"
-bannerimg: "images/banner.png"
+bannerimg: "https://ai-workers-inquiry.github.io/images/banner.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ai-workers-inquiry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
