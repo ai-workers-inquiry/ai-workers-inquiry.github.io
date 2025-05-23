@@ -24,6 +24,7 @@ date: June 23, 2025
 timeframe: 4:15 PM-6:30 PM UTC+3
 location: Athens, Greece and Online
 email: your-email@example.com
+favicon: "images/favicon.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ai-workers-inquiry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
