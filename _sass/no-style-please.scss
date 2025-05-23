@@ -23,7 +23,10 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { 
+  background: white; 
+  background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+}
 
 html { height: 100%; scroll-behavior: smooth; }
 
