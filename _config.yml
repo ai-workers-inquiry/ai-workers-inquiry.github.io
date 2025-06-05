@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: AI WORKERS' INQUIRY
-subtitle: A FAccT 2025 CRAFT Session where workers, organizers, and labor experts will explore how AI is transforming our workplaces and discuss strategies for collective resistance
+subtitle: A FAccT 2025 CRAFT Session that brings together workers, organizers, and labor experts to explore how AI is transforming our workplaces and discuss strategies for collective resistance
 date: June 23, 2025
 timeframe: 4:15 PM-6:30 PM UTC+3
 location: Athens, Greece and Online
 favicon: "images/favicon.png"
-description: "AI Workers' Inquiry is a FAccT 2025 CRAFT workshop where workers, organizers, and labor experts will explore how AI is transforming our workplaces and discuss strategies for collective resistance"
+description: "AI Workers' Inquiry is a FAccT 2025 CRAFT workshop that brings together workers, organizers, and labor experts to explore how AI is transforming our workplaces and discuss strategies for collective resistance"
 bannerimg: "https://ai-workers-inquiry.github.io/images/banner.png"
 headerimg: "https://ai-workers-inquiry.github.io/images/header.png"
 baseurl: "" # the subpath of your site, e.g. /blog

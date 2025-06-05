@@ -107,7 +107,7 @@ header p, header a {
   text-align: center;
 }
 
-header a {
+header .button {
   display: block;
   width: 200px;
   color: white;
@@ -118,6 +118,6 @@ header a {
   text-transform: uppercase;
 }
 
-header a:hover {
+header .button:hover {
   background-color: #7a1d1d;
 }
