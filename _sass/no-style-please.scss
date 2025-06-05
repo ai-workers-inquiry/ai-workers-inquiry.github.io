@@ -109,4 +109,15 @@ header p, header a {
 
 header a {
   display: block;
+  width: 200px;
+  color: white;
+  margin: 0 auto;
+  background-color: #C62828;
+  padding: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+header a:hover {
+  background-color: #7a1d1d;
 }
