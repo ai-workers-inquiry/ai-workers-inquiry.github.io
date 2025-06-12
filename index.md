@@ -25,8 +25,8 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 * Anna Iovine, Ziff Davis Creators Guild / NewsGuild of New York
 * Joan Kinyua, Data Labelers Association
 * Michelle Mahon, National Nurses United
-* TBD from American Association of University Professors
-* TBD from New York Times Tech Guild
+* Britt Paris from American Association of University Professors
+* Ben Harnett from New York Times Tech Guild
 
 ## Organizers
 * Alex Hanna, Distributed AI Research Institute
