@@ -42,3 +42,6 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 * Bria Massey, Carnegie Mellon University
 * Francesca Lameiro, University of Michigan
 
+
+## Resources
+* [AI Workers' Inquiry Worksheet](http://bit.ly/AIworkinquiry)
