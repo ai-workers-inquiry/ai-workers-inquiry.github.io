@@ -45,3 +45,4 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 
 ## Resources
 * [AI Workers' Inquiry Worksheet](http://bit.ly/AIworkinquiry)
+* [Data Workers' Inquiry](https://data-workers.org/)
