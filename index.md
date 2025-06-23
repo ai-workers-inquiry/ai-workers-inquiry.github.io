@@ -28,6 +28,10 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 * Britt Paris from American Association of University Professors
 * Ben Harnett from New York Times Tech Guild
 
+## Social Event
+Time: Monday, June 23, 2025 from 19:30-21:00 
+Location: Clumsies Bar, [Praxitelous 30, Athina 105 61](https://maps.app.goo.gl/AuqB5w2eNZPQgEB19)
+
 ## Organizers
 * Alex Hanna, Distributed AI Research Institute
 * Clarissa Redwine, Collective Action in Tech
@@ -41,7 +45,6 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 * Shreya Chowdhary, University of Michigan
 * Bria Massey, Carnegie Mellon University
 * Francesca Lameiro, University of Michigan
-
 
 ## Resources
 * [AI Workers' Inquiry Worksheet](http://bit.ly/AIworkinquiry)
