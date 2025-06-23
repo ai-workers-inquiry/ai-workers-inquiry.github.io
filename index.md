@@ -20,6 +20,7 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 * Introduction to Marx's Workers' Inquiry (10 min)
 * Breakout Groups (30 min)
 * Final Group Discussion (20 min)
+* Social Event (19:30-21:00) @ Clumsies Bar, [Praxitelous 30, Athina 105 61](https://maps.app.goo.gl/AuqB5w2eNZPQgEB19)
 
 ## Panelists
 * Anna Iovine, Ziff Davis Creators Guild / NewsGuild of New York
@@ -27,10 +28,6 @@ The workshop will be held on Monday, June 23, 2025 from [4:15 PM – 6:30 PM UTC
 * Michelle Mahon, National Nurses United
 * Britt Paris from American Association of University Professors
 * Ben Harnett from New York Times Tech Guild
-
-## Social Event
-* Time: Monday, June 23, 2025 from 19:30-21:00
-* Location: Clumsies Bar, [Praxitelous 30, Athina 105 61](https://maps.app.goo.gl/AuqB5w2eNZPQgEB19)
 
 ## Organizers
 * Alex Hanna, Distributed AI Research Institute
